@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "arabic": "اللّٰه",
+    "turkish": "Allah",
+    "example": "اللّٰهُ غَفُورٌ"
+  },
+  {
+    "id": 2,
+    "arabic": "رَبّ",
+    "turkish": "Rab",
+    "example": "رَبِّ الْعَالَمِينَ"
+  },
+  {
+    "id": 3,
+    "arabic": "كِتَاب",
+    "turkish": "Kitap",
+    "example": "ذَٰلِكَ الْكِتَابُ"
+  },
+  {
+    "id": 4,
+    "arabic": "يَوْم",
+    "turkish": "Gün",
+    "example": "يَوْمِ الدِّينِ"
+  },
+  {
+    "id": 5,
+    "arabic": "أَرْض",
+    "turkish": "Yer",
+    "example": "فِي الْأَرْضِ"
+  },
+  {
+    "id": 6,
+    "arabic": "سَمَاء",
+    "turkish": "Gök",
+    "example": "فِي السَّمَاءِ"
+  },
+  {
+    "id": 7,
+    "arabic": "إِنْسَان",
+    "turkish": "İnsan",
+    "example": "خَلَقَ الْإِنْسَانَ"
+  },
+  {
+    "id": 8,
+    "arabic": "قَوْم",
+    "turkish": "Topluluk",
+    "example": "يَا قَوْمِ"
+  },
+  {
+    "id": 9,
+    "arabic": "حَقّ",
+    "turkish": "Hakikat",
+    "example": "جَاءَ الْحَقُّ"
+  },
+  {
+    "id": 10,
+    "arabic": "عِلْم",
+    "turkish": "Bilgi",
+    "example": "أُوتُوا الْعِلْمَ"
+  }
+]
