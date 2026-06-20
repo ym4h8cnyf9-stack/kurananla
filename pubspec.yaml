@@ -31,7 +31,4 @@ flutter:
     - assets/words/
     - assets/data/
 
-  fonts:
-    - family: Arabic
-      fonts:
-        - asset: assets/fonts/arabic.ttf
+  
