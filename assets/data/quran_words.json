@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "arabic": "الله",
+    "turkish": "Allah",
+    "root": "الهـ",
+    "pronunciation": "Allah",
+    "occurrence_count": 2699,
+    "frequency": 100,
+    "surahs": ["Al-Fatihah", "Al-Baqarah", "Al-Imran"],
+    "example": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "example_translation": "Bismillahir Rahmanir Rahim - Bismillah ile başlarız"
+  },
+  {
+    "id": 2,
+    "arabic": "الرحمن",
+    "turkish": "Rahim - Merhamet Eden",
+    "root": "رحم",
+    "pronunciation": "Ar-Rahman",
+    "occurrence_count": 57,
+    "frequency": 95,
+    "surahs": ["Al-Fatihah", "Ar-Rahman"],
+    "example": "الرَّحْمَٰنُ عَلَى الْعَرْشِ اسْتَوَىٰ",
+    "example_translation": "Rahman (merhamet eden) arşa istiva etti"
+  },
+  {
+    "id": 3,
+    "arabic": "الرحيم",
+    "turkish": "Merciful - Merhametli",
+    "root": "رحم",
+    "pronunciation": "Ar-Rahim",
+    "occurrence_count": 114,
+    "frequency": 94,
+    "surahs": ["Al-Fatihah", "Al-Baqarah"],
+    "example": "إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ",
+    "example_translation": "Allah insanlara karşı çok tatlı ve merhametlidir"
+  },
+  {
+    "id": 4,
+    "arabic": "القرآن",
+    "turkish": "Kuran",
+    "root": "قرأ",
+    "pronunciation": "Al-Quran",
+    "occurrence_count": 70,
+    "frequency": 92,
+    "surahs": ["Al-Baqarah", "An-Nisa", "Al-Maidah"],
+    "example": "هَٰذَا الْقُرْآنُ يَهْدِي لِلَّتِي هِيَ أَقْوَمُ",
+    "example_translation": "Bu Kuran en doğru yola iletir"
+  },
+  {
+    "id": 5,
+    "arabic": "الكتاب",
+    "turkish": "Kitap",
+    "root": "كتب",
+    "pronunciation": "Al-Kitab",
+    "occurrence_count": 230,
+    "frequency": 88,
+    "surahs": ["Al-Baqarah", "Al-Imran", "An-Nisa"],
+    "example": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ",
+    "example_translation": "Bu kitapta şüphe yok"
+  },
+  {
+    "id": 6,
+    "arabic": "العلي",
+    "turkish": "En Yüksek",
+    "root": "علو",
+    "pronunciation": "Al-Ali",
+    "occurrence_count": 12,
+    "frequency": 85,
+    "surahs": ["Al-Imran", "An-Nisa"],
+    "example": "وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "example_translation": "O, Yüce ve Aziz'dir"
+  },
+  {
+    "id": 7,
+    "arabic": "العزيز",
+    "turkish": "Aziz - Güçlü",
+    "root": "عزز",
+    "pronunciation": "Al-Aziz",
+    "occurrence_count": 92,
+    "frequency": 84,
+    "surahs": ["Al-Baqarah", "Al-Imran", "Ash-Shura"],
+    "example": "وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+    "example_translation": "Allah Aziz ve Hakîm'dir"
+  },
+  {
+    "id": 8,
+    "arabic": "الحكيم",
+    "turkish": "Hakîm - Bilgili",
+    "root": "حكم",
+    "pronunciation": "Al-Hakim",
+    "occurrence_count": 98,
+    "frequency": 83,
+    "surahs": ["Al-Baqarah", "An-Nisa", "Al-Anfal"],
+    "example": "وَهُوَ الْحَكِيمُ الْخَبِيرُ",
+    "example_translation": "O Hakîm ve Haberdar'dır"
+  },
+  {
+    "id": 9,
+    "arabic": "السلام",
+    "turkish": "Selam - Emin",
+    "root": "سلم",
+    "pronunciation": "As-Salam",
+    "occurrence_count": 30,
+    "frequency": 81,
+    "surahs": ["Al-Hashr", "Al-Mumtahana"],
+    "example": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ",
+    "example_translation": "O Allah'tır ki O'ndan başka ilah yoktur, Melik, Kuddus, Selam'dır"
+  },
+  {
+    "id": 10,
+    "arabic": "المؤمن",
+    "turkish": "Mü'min - İnanan",
+    "root": "آمن",
+    "pronunciation": "Al-Mu'min",
+    "occurrence_count": 8,
+    "frequency": 78,
+    "surahs": ["Al-Hashr"],
+    "example": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمُؤْمِنُ",
+    "example_translation": "O Allah'tır, O'ndan başka ilah yoktur, Mu'min (inananlara emin veren)'dir"
+  }
+]
